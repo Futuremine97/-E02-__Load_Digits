@@ -6,16 +6,28 @@ https://nvidiaupup.tistory.com/manage/newpost/26?type=post&returnURL=https%3A%2F
 대각선에 있는 것들만 더해주려면 특별한 함수를 써야 합니다
 <br>
 
-print('-'*90)
-a2 = 0
-print('-'*90)
-for value1 in range(2,-2,-1):
-    d2 = np.diag(array1,k= value1)
-    a2 = a2 + np.sum(d2)
-print(a2)
+print('-'*90)<br>
 
-d29 = np.sum(np.diag(array1,k=0))
-print(a2-d29)
-e2 = a2 - d29
-print("제가 만든 성능지표는 : ")
-print(e2/a2)
+a2 = 0<br>
+
+print('-'*90)<br>
+
+for value1 in range(2,-2,-1):<br>
+
+    d2 = np.diag(array1,k= value1)<br>
+
+    a2 = a2 + np.sum(d2)<br>
+
+print(a2)<br>
+
+
+d29 = np.sum(np.diag(array1,k=0))<br>
+
+print(a2-d29)<br>
+
+e2 = a2 - d29<br>
+
+print("제가 만든 성능지표는 : ")<br>
+
+print(e2/a2)<br>
+
