@@ -9,7 +9,7 @@ https://nvidiaupup.tistory.com/manage/newpost/26?type=post&returnURL=https%3A%2F
 정규롸를 시킨뒤, <br>
 오류를 다 모아서 비교해보면 최고의 모델을 가려낼 수 있을 것 같습니다! (가정) <br>
  
-그러다가 저는 중대한 발견을 하였습니다<br>
+그러다가 저는 중대한! 발견을 하였습니다<br>
 대각행렬를 다루는 것인데요 <br>
 대각선에 있는 것들만 더해주려면 특별한 함수를 써야 합니다
 <br>
