@@ -6,7 +6,7 @@ https://nvidiaupup.tistory.com/manage/newpost/26?type=post&returnURL=https%3A%2F
 그래서 유투브를 보니까 대각선 라인은 (n,n) 원소라서 맞는 경우의 수라는 것을 확인하였습니다 <br>
 
 나머지는 오류라는 뜻이겠죠 <br>
-정규롸를 시킨뒤, <br>
+정규화를 시킨뒤, <br>
 오류를 다 모아서 비교해보면 최고의 모델을 가려낼 수 있을 것 같습니다! (가정) <br>
  
 그러다가 저는 중대한! 발견을 하였습니다<br>
